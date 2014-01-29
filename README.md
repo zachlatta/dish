@@ -8,7 +8,7 @@ Start an HTTP server on port 4000 in the current directory.
 
     $ dish
 
-Serve `/tmp/` on port 8080.
+Serve `/tmp` on port 8080.
 
     $ dish -directory /tmp -port 8080
 

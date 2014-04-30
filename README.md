@@ -1,4 +1,4 @@
-# Dish
+# Dish ![Analytics](https://ga-beacon.appspot.com/UA-34529482-6/dish/readme?pixel)
 
 Serve files in the current directory with just four characters.
 
